@@ -1,0 +1,9 @@
+<!-- Placeholder circular photo using the provided portrait as a background pattern can be added later. For now this SVG acts as a placeholder. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="100%" height="100%" fill="#f6f7f9" />
+  <g transform="translate(300,300)">
+    <circle r="260" fill="#ffffff" stroke="#ddd" stroke-width="2" />
+    <text x="0" y="0" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#999">Profile Image</text>
+  </g>
+</svg>
+
